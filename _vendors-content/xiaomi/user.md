@@ -1,8 +1,8 @@
----
+---Adam ELFKHARANY 
 manufacturer: 
-    - xiaomi
+    - xiaomi 9t
 
----
+the app doesn't apply---
 
 ### App pinning / App locking
 
